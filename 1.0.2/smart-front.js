@@ -1,7 +1,7 @@
 /* global $ */
 function SmartFront() {
 
-    this.version = "1.1.0";
+    this.version = "1.0.2";
     this.language = 'ka';
     this.Exception = function (message) {
         this.message = message;
